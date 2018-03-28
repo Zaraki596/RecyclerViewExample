@@ -1,5 +1,7 @@
 # RecyclerViewExample
-This is Project uses RecyclerView as name mentioned and uses card view to display data from GITHUB API using REST APIS
+This is Project uses RecyclerView as name mentioned and uses card view to display data from GITHUB API using REST API'S.
+
+![Example](https://media.giphy.com/media/MVCzupB2FK67jYCOzc/giphy.gif)
 
 ## PROCESS
 
